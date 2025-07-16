@@ -21,4 +21,4 @@ It allows users to create, edit, delete, and move tasks across different lists o
 
 1. Click below link
    ```bash
-   git clone https://github.com/your-username/trello-todo-list.git
+   https://adesh-01.github.io/kanban-board/
